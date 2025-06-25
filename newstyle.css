@@ -1,0 +1,30 @@
+
+#container{
+    width: 80%;
+    background-color: beige;
+    text-align: center;
+    margin-left: 125px;
+    border-style: solid;
+    border-width: 5px;
+}
+.about{
+    text-align: left;
+    border-top: solid;
+    border-width: 2px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.awards{
+    text-align: left;
+    border-top: solid;
+    border-width: 2px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.titles{
+    text-align: left;
+    border-top: solid;
+    border-width: 2px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
